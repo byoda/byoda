@@ -1,21 +1,23 @@
 # Take back your data!
 
 Bring Your Own Data and Algorithms (BYODA) is a radical new and open social media platform.
-- Your data is stored in your own data pod. You have full access to it and full control about granting and withdrawing access to others.
-- You can select the algorithms to generate your feed
+- Your data is stored in your own data pod. You have full access to your data and full control to give and withdraw access to that data to others.
+- You can select the algorithms to generate your feed.
 - Anyone can develop apps and services on the platform.
-- The platform is open source; every one can contribute and privacy and security researchers can review the code.
+- The platform is open source; every one can contribute or review the code.
 
-The goal BYODA is to break the power that social media companies have over our society:
-- Own your data, instead of donating it to social media companies.
-- Select the algorithm to create your feed instead of social media companies providing you with content that generates the most revenue for them.
-- Switch easily between services by granting services access to some of your already available data. 
+I came up with the idea of BYODA after watching the documentary ['The Social Dilemma'](https://www.thesocialdilemma.com/) on the dangerous impact of social networking technologies on our own mental health and on our society as a whole. I believe a fundamental redesign of how social media services are delivered is required in order to reduce the power the top social media companies have and reduce their negative impact on our society. 
 
-BYODA will provide a software development kit for building social media services. This will make it easier and quicker to develop new services or update existing services. As you can decide to allow a new service access to some or all of the data you have stored for other services, it becomes easier for new social media services to reach critical mass and benefit from the 'network effect'. Making it easier for new social media services to get started will increase competition in the social media market.
+Social media platforms are a natural monopoly because of the *network effect*: the more people use a platform, the more interesting it is for other people to use that platform. Social media platforms use that monopoly to maximize their revenue and block competition. The goal of BYODA is to break the power that social media companies have over our society by attacking their monopoly:
+- Reduce revenue: 
+  - You own your data. Don't donate your data to social media companies for them to exploit it.
+  - You select the algorithm to create your feed. Don't let social media companies decide for you what content to consume.
+- Enable competition:
+  - You can easily between services so that new social media services have a chance of competing with the established players.
+  - Selectively grant new services access to your data to give them a head start in offering meaningful services to you.
+  - Byoda reduces the software development and platform cost for new social media services by providing an SDK and a storage platform
 
-Today, social media services run their proprietary algorithms that push content to you to maximize the number of ads they can make you watch. With BYODA, you will be able to select an algorithm from a list of available open-source and propriety algorithms to run in your pod that you have found is best at selecting the content that you want you to consume.
-
-I came up with the idea of BYODA after watching the documentary 'The Social Dilemma' on the dangerous human impact of social networking. I believe a fundamental redesign is required of how social media services are delivered in order to reduce the power the top social media companies have and reduce their negative impact on our society. This project is not just about software development and adoption by people like you. To force the dominant social media services to adopt this model, I believe legislation will need to be enacted. BYODA is not a quick-fix but more of a marathon and will need all the support it can get.
+This project is not just about software development and adoption by people like you; to force the dominant social media services to adopt this model, I believe legislation will need to be enacted. BYODA is not a quick-fix but more of a marathon and will need all the support it can get.
 
 There are three mailing lists for this project:
 * [Announcements for the Byoda project](https://groups.io/g/takebackyourdata-announce)
