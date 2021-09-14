@@ -11,10 +11,10 @@ I came up with the idea of BYODA after watching the documentary 'The Social Dile
 Social media platforms are a natural monopoly because of the *network effect*: the more people use a platform, the more interesting it is for other people to use that platform. Social media platforms use that monopoly to maximize their profit and block competition. The goal of BYODA is to break the power that social media companies have over our society by attacking their monopoly:
 - Reduce profit: 
   - You own your data. Don't donate your data to social media companies for them to exploit it.
-  - You select the algorithm to create your feed. Don't let social media companies decide for you what content to you see in your feed.
+  - You select the algorithm to create your feed. Don't let social media companies decide for you what content you see in your feed.
 - Enable competition:
   - You can easily discover and try out new services so that new social media services have a chance of competing with the established players.
-  - Selectively grant new services access to your data to give them a head start in offering meaningful services to you.
+  - Selectively grant new services access to your existing data to give them a head start in offering meaningful services to you.
   - Byoda reduces the software development and platform cost for new social media services by providing an SDK and a storage platform
 
 This project is not just about software development and adoption by people like you; to force the dominant social media services to adopt this model, I believe legislation will need to be enacted. BYODA is not a quick-fix but more of a marathon and will need all the support it can get.
