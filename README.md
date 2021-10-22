@@ -19,6 +19,8 @@ Social media platforms are a natural monopoly because of the *network effect*: t
 
 This project is not just about software development and adoption by people like you; to force the dominant social media services to adopt this model, I believe legislation will need to be enacted. BYODA is not a quick-fix but more of a marathon and will need all the support it can get.
 
+Storing data in your own private pod is not a new concept but BYODA introduces a data contract between you and a service you sign up for. The data contract is a technical specification of all data that the service can store and fetch from your data pod. In [some blog articles I wrote](https://stevenhessing.medium.com/), you can read more about how this data contract can fundamentally change how social media services work.
+
 There are three mailing lists for this project:
 * [Announcements for the Byoda project](https://groups.io/g/takebackyourdata-announce)
 * [Discussions about the Byoda project](https://groups.io/g/takebackyourdata-discuss)
