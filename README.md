@@ -1,7 +1,7 @@
 # Take back your data!
 
 Bring Your Own Data and Algorithms (BYODA) is a radical new and open social media platform:
-- Your data is stored in your own data pod. You have full access to your data and full control to give and withdraw access to that data to others.
+- All your data is stored in your own data pod. You have full access to your data and full control to give and withdraw access to that data to others.
 - You can select the algorithms to generate your feed.
 - Anyone can develop apps and services on the platform.
 - The platform is open source; every one can contribute or review the code.
