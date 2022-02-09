@@ -21,16 +21,15 @@
 title: BYODA
 email: steven@byoda.org
 description: >- # this means to ignore newlines until "baseurl:"
-  The privacy-first open-source social media platform
-baseurl: "/" # the subpath of your site, e.g. /blog
+  BYODA is the open-source social media platform where you own your data
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://byoda.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: byoda
-github_username:  StevenHessing
+github_username:  stevenhessing
 
 # Build settings
-theme: slate
-# plugins:
-#  - jekyll-feed
+theme: minima
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
