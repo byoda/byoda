@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I came up with the idea of BYODA after watching the documentary [‘The Social Dilemma’]("https://www.thesocialdilemma.com/") on the dangerous impact of social media companies on our own mental health and on our society as a whole. In addition, the online advertising industry breaches our right to privacy by [extracting our data and monetizing it]("https://en.wikipedia.org/wiki/Surveillance_capitalism") in any form they can. Byoda addresses both these issues by delivering the _privacy-first_ social media platform.

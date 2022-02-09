@@ -12,9 +12,9 @@ Governments are at a loss for how to go about regulating social media networks. 
 
 The platforms of these social media companies have three strategic advantages:
 
-    - Incredibly large user bases.
-    - Massive amounts of information that they have collected about each person using the service, allowing them to tailor services for each individual while mixing in content to further their own goals
-    - Control of the algorithms that generate the content feeds, block content or, ban users.
+- Incredibly large user bases.
+- Massive amounts of information that they have collected about each person using the service, allowing them to tailor services for each individual while mixing in content to further their own goals
+- Control of the algorithms that generate the content feeds, block content or, ban users.
 
 To break the monopoly of these companies, we need to address the above three advantages by fundamentally redesigning how social media services work.
 

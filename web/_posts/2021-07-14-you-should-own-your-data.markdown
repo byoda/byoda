@@ -21,8 +21,8 @@ The data contract between a social media platform and you specifies the data tha
 
 In summary, the proposed legislation introduces the data locker and the data contract to provide three benefits:
 
-    - You have improved privacy and control of their data
-    - You can select the algorithms to create your feed
-    - Improve competition between social media platforms
+- You have improved privacy and control of their data
+- You can select the algorithms to create your feed
+- Improve competition between social media platforms
 
 However, there is a slight issue: The data locker supporting the data contract does not exist yet. But the open-source development community can create this kind of technology. Projects like the Solid Project and NextCloud could be starting points, and I have begun the BYODA (Bring Your Own Data and Algorithms) project.

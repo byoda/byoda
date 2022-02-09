@@ -1,10 +1,8 @@
-Legislation should be introduced in 5 phases:
-
-    ---
+---
 layout: post
 title:  "5 steps to fix social media"
-date:   2021-10-25 11:42:36 -0800
-categories: byoda contract
+date:   2021-10-25 17:22:45 -0800
+categories: byoda fixes
 ---
 Legislation should be introduced in 5 phases:
 1. Companies must publish a technical specification of all information they collect and store about people that use their service. This specification must be written from the perspective of an individual person using their service. This specification must include which of that data is shared with 3rd parties and on what terms that sharing happens. Think about this specification as a ‘data contract’ and an addendum to the privacy policy of the service
