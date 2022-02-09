@@ -1,0 +1,21 @@
+<h2 id="byoda-the-privacy-first-social-media-platform">BYODA, the <em>privacy-first</em> social media platform</h2>
+
+<p>Bring Your Own Data and Algorithms is a new open source social media platform that refactors the technology behind social media services:</p>
+<ul>
+  <li>People operate their own <em>data pods</em> that store their data for services that they have joined. They can revoke access to, or remove data from their pod at any time.</li>
+  <li>A <em>data contract</em> documents the information stored on behalf of the service in your data pod and who has access to that data.</li>
+</ul>
+
+<p>Byoda is a social media platform, not a service. it delivers the building blocks to deliver and consume services but does not offer services itself.</p>
+
+<p>The <a href="https://github.com/StevenHessing/byoda-python">first release of Byoda</a> is now available. This release includes:</p>
+<ul>
+  <li>The data pod that people can run on a VM in Amazon Web Services, Microsoft Azure, Google Cloud or a server in their home.</li>
+  <li>The ‘Address Book’ proof-of-concept service that people can use to find other people that joined the Address Book service</li>
+  <li>A reference implementation of a service running on a BYODA network</li>
+  <li>The byoda.net network</li>
+</ul>
+
+<p>Byoda introduces the <em>data contract</em>, a technical specification that describes the data that a service collects from its members. When someone joins a service, they have to accept the data contract for that serqvice. Their pod implements a <em>data firewall</em> that enforces the accepted data contract when it receives a request to store or retrieve data for the service. The data firewall implements a separate namespace for each service to silo off the data from other services.</p>
+
+<p>I came up with the idea of BYODA after watching the documentary <a href="https://www.thesocialdilemma.com/">‘The Social Dilemma’</a> on the dangerous impact of social media companies on our own mental health and on our society as a whole. In addition, the online advertising industry breaches our right to privacy by <a href="https://en.wikipedia.org/wiki/Surveillance_capitalism">extracting our data and monetizing it</a> in any form they can. Byoda addresses both these issues by delivering the <em>privacy-first</em> social media platform.</p>
