@@ -8,8 +8,8 @@ Bring Your Own Data and Algorithms (BYODA) is a radical new and open social medi
 
 I came up with the idea of BYODA after watching the documentary 'The Social Dilemma' on the dangerous impact of social networking companies on our own mental health and on our society as a whole. I believe a fundamental redesign of how social media services are delivered is required in order to reduce the power the top social media companies have and reduce their negative impact on our society. 
 
-Social media platforms are a natural monopoly because of the *network effect*: the more people use a platform, the more interesting it is for other people to use that platform. Social media platforms use that monopoly to maximize their profit and block competition. The goal of BYODA is to break the power that social media companies have over our society by attacking their monopoly:
-- Reduce profit: 
+Social media platforms are a natural monopoly because of the *network effect*: the more people use a platform, the more interesting it is for other people to also use that platform. Social media platforms use that monopoly to maximize their profit and block competition. The goal of BYODA is to break the power that social media companies have over our society:
+- Take control: 
   - You own your data. Don't donate your data to social media companies for them to exploit it.
   - You select the algorithm to create your feed. Don't let social media companies decide for you what content you see in your feed.
 - Enable competition:
